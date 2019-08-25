@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Tesing app with Udemy course",
+  "main": "node-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Fragoso",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^11.0.0",
+    "yargs": "^13.2.4"
+  }
+}
